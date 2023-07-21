@@ -8,5 +8,5 @@ A list of our favorite travel destinations
 - Create a markdown file titled after your favorite destination
 - In the file, add an image and short description - maybe even a link to the wikipedia page for it? 
 - Push your updates
-- Open a PR titled "Adding `x` destination"
+- Open a PR titled "Adding <name-of-your-favorite-destination>"
 - Request a review.
